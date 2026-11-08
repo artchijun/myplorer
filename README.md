@@ -1,2 +1,24 @@
-# myplorer
-Myplorer - Windows file explorer + fast image viewer (installer releases)
+# Myplorer
+
+Windows 10/11(64비트)용 파일 탐색기 + 빠른 이미지 뷰어.
+
+이 저장소에는 **설치 파일만** 올라갑니다(소스 코드는 비공개). 앱은 여기의 최신 릴리스를 보고 새 버전을 알려 줍니다.
+
+## 설치
+
+1. [최신 릴리스](https://github.com/artchijun/myplorer/releases/latest)에서 `Myplorer-Setup.exe`를 받아 실행합니다.
+2. 확인을 누르면 사용자 폴더(`%LOCALAPPDATA%\Programs\Myplorer`)에 설치되고 시작 메뉴·바탕 화면에 바로가기가 생깁니다. 관리자 권한은 필요 없습니다.
+   - "Windows의 PC 보호" 창이 뜨면 [추가 정보] → [실행]을 누릅니다(코드 서명이 없는 프로그램이라 처음 받을 때 나오는 경고입니다).
+   - 조용히 설치: `Myplorer-Setup.exe --quiet`
+
+설치 없이 쓰려면 `Myplorer-portable.zip`을 풀어 `Myplorer.exe`를 실행합니다.
+
+## 업데이트
+
+- 0.9.4부터 앱이 시작하고 조금 뒤에 새 버전을 확인합니다. 새 버전이 있으면 제목줄에 **"업데이트 0.9.x"** 단추가 생기고, 누르면 받아서 설치한 뒤 다시 시작합니다.
+- 설정 > 시스템 > 정보에서 "지금 확인"을 누르거나 자동 확인을 끌 수 있습니다. 트레이 메뉴에도 "업데이트 확인"이 있습니다.
+- 그 전 버전에서는 새 `Myplorer-Setup.exe`를 받아 실행하면 덮어써서 설치됩니다(설정·즐겨찾기는 그대로).
+
+## 변경 이력
+
+각 릴리스의 설명을 보세요.
