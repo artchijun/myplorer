@@ -1,7 +1,7 @@
 {
-  "version": "0.9.29",
-  "sha256": "a7e902ddb812b88c373c4384330b97e68bcbf92420cc10e5007e7b65975b3394",
+  "version": "0.9.30",
+  "sha256": "8cf5f95229131004ab7be7bdb0b30a2dc5b9f9bd3a4b91f0458dd991bd290eb7",
   "setup": "Myplorer-Setup.exe",
   "portable": "Myplorer-portable.zip",
-  "date": "2026-11-13"
+  "date": "2026-11-14"
 }
