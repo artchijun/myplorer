@@ -1,6 +1,6 @@
 {
-  "version": "0.9.96",
-  "sha256": "c65bc0290015308a851431349481f165388f0a1e379d36021df534e820f8ec24",
+  "version": "0.9.97",
+  "sha256": "60797e0c0e1b37a9226f8732ac58916c33b186444e01cb1f09f2126bb955bab0",
   "setup": "Myplorer-Setup.exe",
   "portable": "Myplorer-portable.zip",
   "date": "2026-11-24"
